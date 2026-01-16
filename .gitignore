@@ -196,3 +196,9 @@ cython_debug/
 
 # Data files
 _data
+
+# Source notebooks
+*.ipynb
+
+# Docs build
+_build/
