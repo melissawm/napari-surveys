@@ -9,6 +9,8 @@ dependencies = []
 [dependency-groups]
 docs = [
     "jupytext>=1.18.1",
+    "matplotlib>=3.10.8",
     "myst-nb>=1.3.0",
     "napari-sphinx-theme>=1.0.1",
+    "pandas>=2.3.3",
 ]
